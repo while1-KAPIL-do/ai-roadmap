@@ -1,0 +1,5 @@
+
+
+cd ~/ai-roadmap/week1
+docker run -it --rm -v $(pwd):/app -w /app python:3.12-slim bash
+python week1_data_structures.py
