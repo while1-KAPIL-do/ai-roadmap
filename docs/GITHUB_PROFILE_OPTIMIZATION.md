@@ -90,6 +90,7 @@ Python, requests
 ## Run
 python main.py
 Simple. Clear. Professional.
+```
 
 ================================
 3️⃣ PROJECT STRUCTURE MATTERS
