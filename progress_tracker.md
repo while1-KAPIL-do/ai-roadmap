@@ -8,7 +8,7 @@ Print this. Tick daily. Stay consistent.
 
 # Legend
 
-[ ] Not Started  
+- [ ] Not Started  
 🟨 In Progress  
 ✅ Completed  
 
@@ -21,29 +21,29 @@ Print this. Tick daily. Stay consistent.
 # ================================
 
 ## Week 1 – Python Data Structures
-[ ] Day 1 – Lists  
-[ ] Day 2 – Tuples  
-[ ] Day 3 – Sets  
-[ ] Day 4 – Dictionaries  
-[ ] Day 5 – Practice & mini problems  
+- [ ] Day 1 – Lists  
+- [ ] Day 2 – Tuples  
+- [ ] Day 3 – Sets  
+- [ ] Day 4 – Dictionaries  
+- [ ] Day 5 – Practice & mini problems  
 
 ---
 
 ## Week 2 – Files, JSON & Data Handling
-[ ] Day 1 – File read/write  
-[ ] Day 2 – JSON basics  
-[ ] Day 3 – JSON + files  
-[ ] Day 4 – Transforming data  
-[ ] Day 5 – Practice scenarios  
+- [ ] Day 1 – File read/write  
+- [ ] Day 2 – JSON basics  
+- [ ] Day 3 – JSON + files  
+- [ ] Day 4 – Transforming data  
+- [ ] Day 5 – Practice scenarios  
 
 ---
 
 ## Week 3 – APIs & HTTP
-[ ] Day 1 – Requests & GET  
-[ ] Day 2 – Error handling  
-[ ] Day 3 – Payload building  
-[ ] Day 4 – POST requests  
-[ ] Day 5 – End-to-end mini flow  
+- [ ] Day 1 – Requests & GET  
+- [ ] Day 2 – Error handling  
+- [ ] Day 3 – Payload building  
+- [ ] Day 4 – POST requests  
+- [ ] Day 5 – End-to-end mini flow  
 
 
 ## While learning JSON, files, APIs → always think:
@@ -61,11 +61,11 @@ Print this. Tick daily. Stay consistent.
 # ================================
 
 ## Week 4 – Git
-[ ] Day 1 – Git basics  
-[ ] Day 2 – Writing strong commits  
-[ ] Day 3 – Branching  
-[ ] Day 4 – Pull requests  
-[ ] Day 5 – Syncing & cleanup  
+- [ ] Day 1 – Git basics  
+- [ ] Day 2 – Writing strong commits  
+- [ ] Day 3 – Branching  
+- [ ] Day 4 – Pull requests  
+- [ ] Day 5 – Syncing & cleanup  
 
 ## Don’t treat this basic. Start acting like:
 - ✔ team contributor
@@ -81,11 +81,11 @@ Print this. Tick daily. Stay consistent.
 # ================================
 
 ## Week 5 – Prompt Foundations
-[ ] Day 1 – Prompt basics & control  
-[ ] Day 2 – System vs user prompts  
-[ ] Day 3 – Few-shot prompting  
-[ ] Day 4 – Output structuring  
-[ ] Day 5 – Prompt reliability patterns  
+- [ ] Day 1 – Prompt basics & control  
+- [ ] Day 2 – System vs user prompts  
+- [ ] Day 3 – Few-shot prompting  
+- [ ] Day 4 – Output structuring  
+- [ ] Day 5 – Prompt reliability patterns  
 
 ### You should think:
 - ✔ how to make output deterministic
@@ -101,11 +101,11 @@ Print this. Tick daily. Stay consistent.
 # ================================
 
 ## Week 6 – Working with Models
-[ ] Day 1 – Calling LLM APIs  
-[ ] Day 2 – Handling responses  
-[ ] Day 3 – JSON outputs  
-[ ] Day 4 – Token awareness  
-[ ] Day 5 – Cost & reliability  
+- [ ] Day 1 – Calling LLM APIs  
+- [ ] Day 2 – Handling responses  
+- [ ] Day 3 – JSON outputs  
+- [ ] Day 4 – Token awareness  
+- [ ] Day 5 – Cost & reliability  
 
 ## Ask:
 - ✔ what if API fails?
@@ -125,11 +125,11 @@ Boom → senior vibes.
 # ================================
 
 ## Week 7 – Pipelines
-[ ] Day 1 – Prompt chaining  
-[ ] Day 2 – Validation layers  
-[ ] Day 3 – Retry & fallbacks  
-[ ] Day 4 – Observability  
-[ ] Day 5 – System flow design  
+- [ ] Day 1 – Prompt chaining  
+- [ ] Day 2 – Validation layers  
+- [ ] Day 3 – Retry & fallbacks  
+- [ ] Day 4 – Observability  
+- [ ] Day 5 – System flow design  
 
 ## You now think:
 - ✔ retries
@@ -149,11 +149,11 @@ This is how real companies operate.
 # ================================
 
 ## Week 8
-[ ] Day 1 – Embeddings  
-[ ] Day 2 – Chunking  
-[ ] Day 3 – Vector databases  
-[ ] Day 4 – Retrieval  
-[ ] Day 5 – Full RAG pipeline  
+- [ ] Day 1 – Embeddings  
+- [ ] Day 2 – Chunking  
+- [ ] Day 3 – Vector databases  
+- [ ] Day 4 – Retrieval  
+- [ ] Day 5 – Full RAG pipeline  
 
 ## Most people stop at “it works”. You should think:
 - ✔ how to re-index?
@@ -172,11 +172,11 @@ This is how real companies operate.
 # ================================
 
 ## Week 9
-[ ] Day 1 – What is an agent  
-[ ] Day 2 – Tool calling  
-[ ] Day 3 – Multi-step reasoning  
-[ ] Day 4 – Action execution  
-[ ] Day 5 – Agent workflows  
+- [ ] Day 1 – What is an agent  
+- [ ] Day 2 – Tool calling  
+- [ ] Day 3 – Multi-step reasoning  
+- [ ] Day 4 – Action execution  
+- [ ] Day 5 – Agent workflows  
 
 ## Instead of cool demos, ask:
 - ✔ how to stop infinite loops
@@ -194,11 +194,11 @@ Now you are enterprise-ready.
 # ================================
 
 ## Week 10
-[ ] Day 1 – Project selection  
-[ ] Day 2 – Architecture clarity  
-[ ] Day 3 – Documentation  
-[ ] Day 4 – Resume linking  
-[ ] Day 5 – Recruiter readiness  
+- [ ] Day 1 – Project selection  
+- [ ] Day 2 – Architecture clarity  
+- [ ] Day 3 – Documentation  
+- [ ] Day 4 – Resume linking  
+- [ ] Day 5 – Recruiter readiness  
 
 ## convert everything into:
 - ✔ business language
