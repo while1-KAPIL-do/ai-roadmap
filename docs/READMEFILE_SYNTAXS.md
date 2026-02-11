@@ -82,16 +82,22 @@ Use `php artisan serve`
 ```
 
 Multi-line:
-````md
-```python
-print("Hello")
+```md
+   python
+      print("Hello")
 ```
 
 Quotes
 > Important note
+```md
+> Important note
+```
 
 Horizontal Line
 ---
+```md
+---
+```
 
 2️⃣ Tables
 | Feature | Status |
@@ -99,11 +105,22 @@ Horizontal Line
 | Auth | ✅ |
 | Cache | ❌ |
 
+```md
+| Feature | Status |
+|--------|--------|
+| Auth | ✅ |
+| Cache | ❌ |
+```
+
 3️⃣ Task / Checkbox
+
 - [x] API
 - [ ] Tests
 
-
+```md
+- [x] API
+- [ ] Tests
+```
 Perfect for roadmap.
 
 4️⃣ Collapsible Section (GitHub)
@@ -114,11 +131,26 @@ Hidden content here
 
 </details>
 
+```md
+<details>
+<summary>Open</summary>
+
+Hidden content here
+
+</details>
+```
+
 5️⃣ Badges (Pro Level)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 
+```md
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+```
+
 🏆 6️⃣ Standard README Template (Industry)
+
 # Project Name
 
 Short description of the project.
@@ -230,33 +262,29 @@ POST /users
   "id": 1
 }
 
-🎯 🔟 What Makes Documentation Look Senior?
+# 🎯 🔟 What Makes Documentation Look Senior?
 
 Good docs show:
 
-✅ clarity
-✅ ownership
-✅ structured thinking
-✅ product mindset
-✅ communication skills
+- ✅ clarity
+- ✅ ownership
+- ✅ structured thinking
+- ✅ product mindset
+- ✅ communication skills
 
 Hiring managers LOVE this.
 
-💡 Pro Tips
+## 💡 Pro Tips
 
-Keep sections predictable
-
-Add diagrams when possible
-
-Show commands
-
-Add real examples
-
-Use badges
-
-Maintain TOC for big projects
+- Keep sections predictable
+- Add diagrams when possible
+- Show commands
+- Add real examples
+- Use badges
+- Maintain TOC for big projects
 
 ## ❤️ Final Note
 
 Engineers who document well grow faster into:
-Senior → Staff → Architect → Product roles.
+
+**Senior → Staff → Architect → Product roles.**
